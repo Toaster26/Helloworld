@@ -1,4 +1,9 @@
+
+
 public class Helloworld : MonoBehavior
 {
-    //add
+    static void Main()
+    {
+        system.Console.WriteLine("Hello, World!");
+    }
 }
